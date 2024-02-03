@@ -9,14 +9,12 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
-  - [🚀 Live Demo ](#-live-demo-)
-  - [💻 Getting Started ](#-getting-started-)
+  - [� Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
     - [Install](#install)
     - [Usage](#usage)
     - [Run tests](#run-tests)
-    - [Deployment](#deployment)
   - [👥 Authors ](#-authors-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
@@ -61,14 +59,6 @@ This is a [React.js](https://react.dev/) app created using [create-react-app](ht
 
 - **Homepage:** displays a greeting  in a random language 
 - **Randomize:** fetches a new greeting from the backend when clicked
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-
-The app is currently not deployed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -125,12 +115,6 @@ Then open [http://localhost:3000](http://localhost:3000) to view it in your brow
 ### Run tests
 
 There are currently no tests for this app.
-
-### Deployment
-
-This application is currently not deployed.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
